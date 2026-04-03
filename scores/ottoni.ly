@@ -7,9 +7,12 @@
 
 \book {
   \bookpart {
-    \section "1" "First"
+    \section "Quæ est ista"
     \addTocEntry
-    \paper { indent = 2\cm }
+    \paper {
+      indent = 2\cm
+      page-count = #4
+    }
     \score {
       <<
         \new StaffGroup <<
@@ -17,17 +20,17 @@
             \set GrandStaff.instrumentName = \transposedName "Clarino" "C" ""
             \new Staff {
               \set Staff.instrumentName = "I"
-              \xxxClarinoI
+              \ClarinoI
             }
             \new Staff {
               \set Staff.instrumentName = "II"
-              \xxxClarinoII
+              \ClarinoII
             }
           >>
         >>
         \new Staff {
           \set Staff.instrumentName = \transposedTimp "C" "" "G" ""
-          \xxxTimpani
+          \Timpani
         }
       >>
     }

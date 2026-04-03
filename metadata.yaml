@@ -1,21 +1,20 @@
 composer:
-  last:
-  first:
-title:
-id:
-genre:
-scoring:
-ark: 
+  last: Gugl
+  first: Matthäus
+title: Quæ est ista
+genre: offertorium
+scoring: T (solo), S, A, T, B (coro), 2 clno (C), timp (C–G), 2 vl, b, org
+ark: 68748/e1mgu3
 license: cc-by-sa-4.0
 sources:
   B1:
-    siglum:
-    shelfmark:
-    date:
-    rism:
-    url:
-    license:
+    siglum: A-LA
+    shelfmark: 920
+    date: 1746–68
+    rism: 603001868
+    license: public domain
     principal: true
+    notes: "10 parts, 32 × 20.5 cm. Hand-ruled paper, 10 staves per page (10 mm) in dark brown ink and music in same ink. A clean manuscript copy by Joseph Tischer. Cover title: “Offertorium | Aſsumptione B:V:M: | a | Canto Alto. | Tenore Solo Baſso. | Violinis 2bus | Clarinis 2bus | Tympano | con | Organo. | A.A.L. [=Amandus Abbas Lambacensis] | Deſcriptsit Josephus | Tischer | Del: Sig:|r|e Gugl”. Parts held and extent: S coro (2 fol.), A coro (2), T solo and coro (2), B coro (2), clno 1 (1), clno 2 (1), timp (1), vl 1 (2), vl 2 (2), org (2)."
 imslp:
 parts:
   ottoni: Clarino I, II in C\\Timpani in C–G
